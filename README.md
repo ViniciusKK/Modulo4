@@ -6,19 +6,6 @@
 
 The Simon Game is a classic memory game where players must repeat a sequence of lights and sounds generated randomly by the game. Each round, the sequence increases by one step, making the challenge more difficult. This project recreates the Simon Game using an ESP32, LEDs, and buttons, providing a fun and interactive way to test and improve your memory.
 
-## Why is it interesting?
-
-- **Skill Development**: Working on projects like this helps develop practical skills in embedded programming, electronics, and game logic.
-- **Cognitive Challenge**: The Simon Game is an excellent exercise for memory and concentration.
-- **Engagement and Fun**: This game is fun to play and can be a great project to show to friends and family.
-- **Maker Projects**: It's a great example of a project for the maker community that can be easily replicated and modified.
-
-## Why make it?
-
-- **Learning**: Developing this game allows you to apply theoretical knowledge in a practical project.
-- **Creativity**: There are numerous possibilities for customization and enhancement.
-- **Technical Challenge**: Working with hardware and software together presents interesting and rewarding challenges.
-
 ## How does the game work?
 
 1. **Game Setup**: The ESP32 is configured with LEDs and buttons connected to specific pins. When the game starts, a sequence of lights is generated.
